@@ -1,0 +1,19 @@
+Beagle Book — Floppy Ears: validation report
+
+Edited the uploaded STL using local mesh Boolean operations; no full-model reconstruction or rescaling.
+Removed both upright tips and old inner-ear relief. Added two rounded drooping ears with 0.7 mm raised edge outlines, shaped and visually compared with the supplied reference.
+
+Exported STL validation:
+- One connected, closed, watertight solid; consistent outward winding and positive volume.
+- Manifold3D accepts the reloaded STL with NoError.
+- Euler characteristic -2, consistent with the two original through openings.
+- Center and tail holes remain open at Z=0.1, 6, and 12 mm, with identical section bounding boxes. The largest section area discrepancy is 0.000363 mm² at the center opening near the bottom; other sections agree to numerical precision.
+- Boolean comparison detected no material change outside the localized ear-edit regions (numerical residue below 0.000001 mm³). Body, tail, central opening, tail hole, eyes, nose, and mouth preserved; original muzzle relief preserved except the small areas covered by the new ears.
+- Flat bottom remains at Z=0; original orientation and 13.600 mm overall thickness retained.
+
+Dimensions (X × Y × Z, mm; STL interpreted in millimeters):
+Original: 94.624 × 59.178 × 13.600
+Modified: 97.704 × 54.012 × 13.600
+Changes: X +3.080 mm; Y -5.166 mm; Z unchanged. Changes in the outline are due solely to the floppy ears replacing the upright tips.
+
+The new 0.7 mm ear outlines are wider than a nominal 0.4 mm nozzle. No Bambu Studio slicing or physical print was performed; inspect layer preview after import. STL contains geometry only, so display colors in the rendered preview are illustrative and require separate painting in a slicer for multicolor printing.
