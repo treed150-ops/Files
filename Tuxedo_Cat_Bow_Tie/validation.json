@@ -1,0 +1,49 @@
+{
+  "dimensions_mm": [
+    94.62399291992188,
+    59.17799377441406,
+    13.600000381469727
+  ],
+  "watertight": true,
+  "connected_components": 1,
+  "original_geometry_removed_mm3": -1.9126912898643255e-09,
+  "added_bib_and_bow_mm3": 53.81673384864734,
+  "black_white_overlap_mm3": -1.6514567491299204e-15,
+  "original_euler": -2,
+  "final_euler": -2,
+  "opening_boundary_checks": [
+    [
+      "center",
+      0.1,
+      0.0007277779163183249
+    ],
+    [
+      "tail",
+      0.1,
+      1.26353838476054e-07
+    ],
+    [
+      "center",
+      6,
+      1.7763568394002505e-15
+    ],
+    [
+      "tail",
+      6,
+      0.0
+    ],
+    [
+      "center",
+      12,
+      0.0
+    ],
+    [
+      "tail",
+      12,
+      0.0
+    ]
+  ],
+  "3mf_serialized_meshes_verified": true,
+  "previous_cat_volume_removed_mm3": 1.0271688831503464e-08,
+  "change_outside_bow_region_mm3": -1.9126912898738546e-09
+}
