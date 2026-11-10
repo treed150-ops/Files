@@ -1,0 +1,23 @@
+Split globe — dimensions in mm
+
+Assembled outside diameter: 120
+Original clear bottom opening: 54.4
+Spherical wall: 2
+Split: equator
+Connector: integral male locating lip on lower half
+Lip engagement: 5
+Lip radial clearance: 0.25 per side (0.5 diametral)
+Lip follows the inner spherical contour for consistent clearance.
+Lip wall: at least 2
+Upper half slides over the lip and seats against the equatorial shoulder.
+This is a slip-fit connector; glue may be used for permanent assembly.
+The connector has no snap latch or threads.
+
+Both STLs use the same assembled coordinate system, with the equator at Z=0.
+Move each part to the build plate independently in the slicer. Print the upper
+half with its equatorial rim on the bed. The lower half may need supports,
+depending on orientation and printer. Import in millimeters at 100% scale.
+Printer tolerances vary; check fit before gluing and lightly sand if needed.
+
+Both meshes validated: closed manifold, consistent winding, positive volume,
+and no degenerate triangles. The original single-piece file remains available.
