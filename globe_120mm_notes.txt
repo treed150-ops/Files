@@ -1,0 +1,10 @@
+Hollow spherical globe
+
+Outside diameter: 120 mm
+Clear bottom opening diameter: 54.4 mm
+Spherical wall thickness: 2 mm
+Overall height: 111.2266 mm (bottom cap removed for opening)
+Flat annular rim; no threads or mounting collar.
+STL coordinates are in millimeters. Import at 100% scale.
+Mesh checked for watertightness, consistent winding and nonzero triangle areas.
+Printing may require supports depending on process and orientation.
