@@ -1,0 +1,76 @@
+{
+  "fixed_mesh": {
+    "triangles": 512640,
+    "vertices": 256320,
+    "watertight": true,
+    "consistent_winding": true,
+    "connected_components": 1,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "degenerate_triangles": 0,
+    "volume_mm3": 36521.67144538866,
+    "bounds_mm": [
+      [
+        -60.0,
+        -60.0,
+        -51.22655487060547
+      ],
+      [
+        60.0,
+        60.0,
+        5.0
+      ]
+    ]
+  },
+  "protected_surfaces": {
+    "mounting_region": {
+      "identical_triangle_geometry": true,
+      "triangles": 77760
+    },
+    "connector_above_equator": {
+      "identical_triangle_geometry": true,
+      "triangles": 31680
+    },
+    "exterior_sphere": {
+      "identical_triangle_geometry": true,
+      "triangles": 144000
+    }
+  },
+  "upper_sha256_unchanged": "03c9c5f0944b8cd8a5b5f0eeb8be41cb42a3c1fba229b1798594ca189ee97d55",
+  "source_lower_sha256": "0b413980e9d8012eb0b96072724978f855aaef5d6dd8d9e6c43b638642d282c4",
+  "fixed_sha256": "097ad6c0d1c93a83650ad1e2e5360e593fe7816eaa43495eced83df5063ac16d",
+  "mounting_region_preserved_height_mm": 9.862419128417969,
+  "opening_diameter_mm": 54.400001525878906,
+  "lip_engagement_mm": 5,
+  "lip_base_outside_diameter_mm": 115.5,
+  "lip_tip_outside_diameter_mm": 115.06816101074219,
+  "lip_inside_diameter_mm": 111.06816101074219,
+  "optical_shell_normal_thickness_mm": 1.2,
+  "original_normal_thickness_mm": 2,
+  "taper_assembly_z_mm": [
+    -8,
+    -3
+  ],
+  "taper_angle_from_vertical_deg": 28.53876037988435,
+  "layers_35_60_opening_down": {
+    "isolated_annuli": 0,
+    "inner_bead_centers_supported": true,
+    "max_outer_step_mm": 0.18802645620334602,
+    "outer_support_recommended": true
+  },
+  "connector_opening_down": {
+    "first_taper_layer": 271,
+    "last_layer": 352,
+    "max_inward_step_mm": 0.08701485349164528,
+    "min_annulus_overlap_mm": 1.2108396840693416,
+    "inner_bead_centers_supported": true
+  },
+  "lip_down_unavoidable_exterior_shoulder": {
+    "print_height_mm": 5,
+    "radial_jump_mm": 2.25,
+    "original_max_outer_step_mm": 2.2500536201050068,
+    "fixed_max_outer_step_mm": 2.2500536201050068,
+    "support_free": false
+  },
+  "analysis_method": "Actual STL meridian intersections every 0.16 mm; layer centers at 0.08 + n*0.16, 0.4 mm bead center footprint check. Geometric screening, not Bambu toolpath simulation or print test."
+}
