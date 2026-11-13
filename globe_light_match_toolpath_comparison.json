@@ -1,0 +1,261 @@
+{
+  "upper_before": {
+    "engine": "BambuStudio 02.09.01.70",
+    "printer": "Bambu Lab P2S 0.4 nozzle",
+    "process": "0.16mm Standard @BBL P2S, modified as requested",
+    "wall_generator": "classic",
+    "layer_height_mm": 0.16,
+    "nozzle_mm": 0.4,
+    "wall_loops": 3,
+    "sparse_infill_percent": 0,
+    "support_enabled": false,
+    "top_shell_layers": 6,
+    "bottom_shell_layers": 4,
+    "outer_line_width_mm": 0.42,
+    "inner_line_width_mm": 0.45,
+    "grams": 53.5570182800293,
+    "estimated_model_time_s": 5670.39794921875,
+    "features": {
+      "Outer wall": {
+        "path_mm": 212476.1580654381,
+        "filament_mm": 5345.809410000896,
+        "moves": 162715.0
+      },
+      "Inner wall": {
+        "path_mm": 298649.79304489493,
+        "filament_mm": 8092.537160000559,
+        "moves": 218971.0
+      },
+      "Gap infill": {
+        "path_mm": 64685.4231580701,
+        "filament_mm": 1908.1158399999813,
+        "moves": 44947.0
+      },
+      "Floating vertical shell": {
+        "path_mm": 1225.9579927662674,
+        "filament_mm": 29.209500000000027,
+        "moves": 1341.0
+      },
+      "Internal solid infill": {
+        "path_mm": 80445.54547819534,
+        "filament_mm": 2111.078850000019,
+        "moves": 62782.0
+      },
+      "Overhang wall": {
+        "path_mm": 2622.772496281011,
+        "filament_mm": 71.06945999999964,
+        "moves": 3478.0
+      },
+      "Bridge": {
+        "path_mm": 911.2578174275251,
+        "filament_mm": 23.09745,
+        "moves": 420.0
+      },
+      "Top surface": {
+        "path_mm": 2420.071581997028,
+        "filament_mm": 60.843600000000045,
+        "moves": 932.0
+      }
+    },
+    "sample_layer_top_z_mm": 30.08,
+    "sample_normal_latitude_deg_approx": 30,
+    "sample_radial_bead_crossings": [
+      [
+        49.84499540229885,
+        "Outer wall",
+        0.42
+      ],
+      [
+        50.24597875569043,
+        "Inner wall",
+        0.45
+      ],
+      [
+        50.66113223140496,
+        "Inner wall",
+        0.45
+      ],
+      [
+        50.92497579560737,
+        "Inner wall",
+        0.45
+      ],
+      [
+        51.34028138913624,
+        "Inner wall",
+        0.45
+      ],
+      [
+        51.74099115044248,
+        "Outer wall",
+        0.42
+      ]
+    ],
+    "sample_radial_bead_count": 6,
+    "bridge_move_count": 420,
+    "max_bridge_labeled_move_mm": 12.222000000000008,
+    "bridge_layers_mm": [
+      57.76,
+      57.92,
+      58.08
+    ]
+  },
+  "upper_after": {
+    "engine": "BambuStudio 02.09.01.70",
+    "printer": "Bambu Lab P2S 0.4 nozzle",
+    "process": "0.16mm Standard @BBL P2S, modified as requested",
+    "wall_generator": "classic",
+    "layer_height_mm": 0.16,
+    "nozzle_mm": 0.4,
+    "wall_loops": 3,
+    "sparse_infill_percent": 0,
+    "support_enabled": false,
+    "top_shell_layers": 6,
+    "bottom_shell_layers": 4,
+    "outer_line_width_mm": 0.42,
+    "inner_line_width_mm": 0.45,
+    "grams": 35.0175666809082,
+    "estimated_model_time_s": 4757.42822265625,
+    "features": {
+      "Outer wall": {
+        "path_mm": 215066.85531442112,
+        "filament_mm": 5410.946940001123,
+        "moves": 165491.0
+      },
+      "Inner wall": {
+        "path_mm": 119380.94485027323,
+        "filament_mm": 3234.8782100000226,
+        "moves": 92566.0
+      },
+      "Gap infill": {
+        "path_mm": 84800.778566874,
+        "filament_mm": 2354.014579999971,
+        "moves": 58423.0
+      },
+      "Internal solid infill": {
+        "path_mm": 13987.772342531847,
+        "filament_mm": 367.72236000000333,
+        "moves": 14696.0
+      },
+      "Overhang wall": {
+        "path_mm": 2682.986351713292,
+        "filament_mm": 72.7008299999997,
+        "moves": 3485.0
+      },
+      "Top surface": {
+        "path_mm": 2420.071581997028,
+        "filament_mm": 60.843600000000045,
+        "moves": 932.0
+      },
+      "Bridge": {
+        "path_mm": 916.0489674970238,
+        "filament_mm": 23.347329999999996,
+        "moves": 418.0
+      }
+    },
+    "sample_layer_top_z_mm": 30.08,
+    "sample_normal_latitude_deg_approx": 30,
+    "sample_radial_bead_crossings": [
+      [
+        50.77300056465273,
+        "Outer wall",
+        0.42
+      ],
+      [
+        51.25568033883192,
+        "Gap infill",
+        0.604168
+      ],
+      [
+        51.74099115044248,
+        "Outer wall",
+        0.42
+      ]
+    ],
+    "sample_radial_bead_count": 3,
+    "bridge_move_count": 418,
+    "max_bridge_labeled_move_mm": 12.295999999999992,
+    "bridge_layers_mm": [
+      58.56,
+      58.72,
+      58.88
+    ]
+  },
+  "lower_reference": {
+    "engine": "BambuStudio 02.09.01.70",
+    "printer": "Bambu Lab P2S 0.4 nozzle",
+    "process": "0.16mm Standard @BBL P2S, modified as requested",
+    "wall_generator": "classic",
+    "layer_height_mm": 0.16,
+    "nozzle_mm": 0.4,
+    "wall_loops": 3,
+    "sparse_infill_percent": 0,
+    "support_enabled": false,
+    "top_shell_layers": 6,
+    "bottom_shell_layers": 4,
+    "outer_line_width_mm": 0.42,
+    "inner_line_width_mm": 0.45,
+    "grams": 41.39689636230469,
+    "estimated_model_time_s": 4366.7119140625,
+    "features": {
+      "Inner wall": {
+        "path_mm": 169512.0515250764,
+        "filament_mm": 4595.680450000229,
+        "moves": 122337.0
+      },
+      "Outer wall": {
+        "path_mm": 225172.85950924296,
+        "filament_mm": 5663.070260001091,
+        "moves": 172801.0
+      },
+      "Bottom surface": {
+        "path_mm": 417.82919756589007,
+        "filament_mm": 12.710630000000005,
+        "moves": 551.0
+      },
+      "Internal solid infill": {
+        "path_mm": 34361.93439612217,
+        "filament_mm": 931.0823699999951,
+        "moves": 23876.0
+      },
+      "Gap infill": {
+        "path_mm": 72769.55853944538,
+        "filament_mm": 2255.6618399999325,
+        "moves": 50420.0
+      },
+      "Floating vertical shell": {
+        "path_mm": 2957.4407931766855,
+        "filament_mm": 74.46362000000005,
+        "moves": 2109.0
+      },
+      "Top surface": {
+        "path_mm": 3846.9784248700084,
+        "filament_mm": 96.71821999999992,
+        "moves": 1188.0
+      }
+    },
+    "sample_layer_top_z_mm": 21.28,
+    "sample_normal_latitude_deg_approx": 30,
+    "sample_radial_bead_crossings": [
+      [
+        50.75800056465272,
+        "Outer wall",
+        0.42
+      ],
+      [
+        51.24150222222224,
+        "Gap infill",
+        0.605023
+      ],
+      [
+        51.7249884904825,
+        "Outer wall",
+        0.42
+      ]
+    ],
+    "sample_radial_bead_count": 3,
+    "bridge_move_count": 0,
+    "max_bridge_labeled_move_mm": 0,
+    "bridge_layers_mm": []
+  }
+}

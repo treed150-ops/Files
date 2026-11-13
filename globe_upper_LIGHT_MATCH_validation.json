@@ -1,0 +1,38 @@
+{
+  "source_upper_sha256": "03c9c5f0944b8cd8a5b5f0eeb8be41cb42a3c1fba229b1798594ca189ee97d55",
+  "lower_FIXED_sha256_unchanged": "097ad6c0d1c93a83650ad1e2e5360e593fe7816eaa43495eced83df5063ac16d",
+  "new_upper_sha256": "e763644d5c32359823074f6c0138e29bec8a59c6e26992ae080008225f8f02ec",
+  "outside_diameter_mm": 120,
+  "outer_surface_identical_triangles": 172080,
+  "socket_identical_triangles": 20160,
+  "socket_preserved_through_z_mm": 5.307094097137451,
+  "socket_blend_z_mm": [
+    5.307094097137451,
+    10.0
+  ],
+  "visible_shell_before_mm": 2,
+  "visible_shell_after_mm": 1.2,
+  "crown_vertical_thickness_before_mm": 2,
+  "crown_vertical_thickness_after_mm": 1.2,
+  "watertight": true,
+  "manifold": true,
+  "connected_components": 1,
+  "consistent_winding": true,
+  "overlapping_shells": false,
+  "unintended_solid_regions": false,
+  "designed_closed_crown": true,
+  "triangles": 455040,
+  "volume_mm3": 28841.14985884602,
+  "bounds_mm": [
+    [
+      -60.0,
+      -60.0,
+      3.5514757401480888e-15
+    ],
+    [
+      60.0,
+      60.0,
+      60.0
+    ]
+  ]
+}
