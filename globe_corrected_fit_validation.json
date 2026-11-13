@@ -1,0 +1,92 @@
+{
+  "reference_file": "Christmas_Globe_120mm_PRESS_FIT_BOTTOM.stl",
+  "reference_sha256": "eec3a2e772d0b3b6f9dc428b6d6005f87a41498611d8980b8627b8ff89c8f03b",
+  "successful_lower_sha256": "097ad6c0d1c93a83650ad1e2e5360e593fe7816eaa43495eced83df5063ac16d",
+  "upper_sha256_unchanged": "03c9c5f0944b8cd8a5b5f0eeb8be41cb42a3c1fba229b1798594ca189ee97d55",
+  "reference_opening_diameter_mm": 69.44921875,
+  "previous_opening_diameter_mm": 54.400001525878906,
+  "corrected_opening_diameter_mm": 69.44921875,
+  "reference_rim_outer_diameter_mm": 73.44000244140625,
+  "bottom_raised_mm": 3.7750892639160156,
+  "reference_cavity_preserved_through_height_mm": 39.401465606689456,
+  "transition_to_unchanged_taper_height_mm": [
+    39.401465606689456,
+    39.45146560668945
+  ],
+  "max_cavity_diameter_difference_below_39_4mm": 4.422131567594079e-06,
+  "upper_connector_and_gradual_taper_identical_triangles": 87840,
+  "reference_has_separate_internal_stop": false,
+  "fit_test_height_mm": 52.45146560668945,
+  "fit_test_cavity_matches_complete_model": true,
+  "topper_interference_confirmed": false,
+  "topper_clearance_note": "Topper geometry unavailable. The unchanged taper begins at 39.4515 mm above the new rim and narrows to 111.06816 mm bore at 44.4515 mm. Physical full-depth test required.",
+  "corrected_mesh": {
+    "watertight": true,
+    "manifold": true,
+    "connected_components": 1,
+    "consistent_winding": true,
+    "triangles": 344160,
+    "volume_mm3": 31504.72641428925,
+    "bounds_mm": [
+      [
+        -60.0,
+        -60.0,
+        -47.45146560668945
+      ],
+      [
+        60.0,
+        60.0,
+        5.0
+      ]
+    ]
+  },
+  "fit_test_mesh": {
+    "watertight": true,
+    "manifold": true,
+    "connected_components": 1,
+    "consistent_winding": true,
+    "triangles": 348480,
+    "volume_mm3": 21219.364170263056,
+    "bounds_mm": [
+      [
+        -59.45323944091797,
+        -59.45323944091797,
+        -47.45146560668945
+      ],
+      [
+        59.45323944091797,
+        59.45323944091797,
+        5.0
+      ]
+    ]
+  },
+  "first_15mm_layer_check": {
+    "layer_height_mm": 0.16,
+    "layers": 94,
+    "isolated_rings": 0,
+    "all_inner_bead_centers_supported": true,
+    "max_outer_radial_step_mm": 0.2049202433937367,
+    "layers_35_60_max_outer_step_mm": 0.1569504684493026
+  },
+  "analysis_limit": "Geometric STL layer screening, not Bambu toolpath simulation or physical fit verification.",
+  "actual_horizontal_STL_section_checks": {
+    "heights": 10,
+    "azimuths_per_height": 6,
+    "max_radial_difference_mm": 2.251959898558198e-06
+  },
+  "test_identical_full_cavity_triangle_count": 173160,
+  "full_height_printability_screen": {
+    "globe_120mm_lower_CORRECTED_FIT.stl": {
+      "isolated_rings_all_layers": 0,
+      "unsupported_inner_bead_centers_all_layers": 0,
+      "max_connector_inward_step_mm": 0.08701485349163818,
+      "last_exterior_over_45deg_layer_center_height_mm": 5.04
+    },
+    "globe_mounting_fit_TEST.stl": {
+      "isolated_rings_all_layers": 0,
+      "unsupported_inner_bead_centers_all_layers": 0,
+      "max_connector_inward_step_mm": 0.08701485349163818,
+      "last_exterior_over_45deg_layer_center_height_mm": 5.84
+    }
+  }
+}
