@@ -1,0 +1,60 @@
+{
+  "file": "Marker_Box_10x10_11.5mm_0.6mm_Nozzle_Solid_Back.stl",
+  "bytes": 2663384,
+  "watertight": true,
+  "connected_solids": 1,
+  "overall_dimensions_mm": [
+    128.1999969482422,
+    130.1999969482422,
+    119.0
+  ],
+  "main_body_dimensions_mm": [
+    128.2,
+    129.2,
+    119
+  ],
+  "hole_count": 100,
+  "hole_diameter_mm": 11.5,
+  "pitch_mm": 12.7,
+  "hole_depth_mm": 118,
+  "solid_back_mm": 1,
+  "mounting_recesses": "4; source profiles and X/Z positions preserved",
+  "rear_features_translation_mm": [
+    0,
+    10.2,
+    0
+  ],
+  "sections": {
+    "1.01": {
+      "min_between_mm": 1.1999969482421875,
+      "min_outside_mm": 1.1999969482421875,
+      "diameter_min_mm": 11.499998092651367,
+      "diameter_max_mm": 11.5
+    },
+    "18": {
+      "min_between_mm": 1.1999969482421875,
+      "min_outside_mm": 1.1999969482421873,
+      "diameter_min_mm": 11.499998092651367,
+      "diameter_max_mm": 11.5
+    },
+    "60": {
+      "min_between_mm": 1.1999969482421875,
+      "min_outside_mm": 1.1999969482421873,
+      "diameter_min_mm": 11.499998092651367,
+      "diameter_max_mm": 11.5
+    },
+    "101": {
+      "min_between_mm": 1.1999969482421875,
+      "min_outside_mm": 1.1999969482421873,
+      "diameter_min_mm": 11.499998092651367,
+      "diameter_max_mm": 11.5
+    },
+    "118.5": {
+      "min_between_mm": 1.1999969482421875,
+      "min_outside_mm": 1.1999969482421875,
+      "diameter_min_mm": 11.499998092651367,
+      "diameter_max_mm": 11.5
+    }
+  },
+  "volume_cm3": 745.5222569698665
+}
