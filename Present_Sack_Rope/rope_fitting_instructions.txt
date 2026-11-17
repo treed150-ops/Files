@@ -1,0 +1,15 @@
+PRESENT SACK ROPE WITH FRONT BOW
+
+Designed for present_sack_fuller.stl at its original size (approximately 95.61 x 96.01 x 110 mm), and also fits the original sack because its lower exterior is unchanged.
+
+Print these two parts:
+  rope_front_with_bow.stl
+  rope_rear.stl
+
+The two parts retain the bag's coordinate system. In your slicer, place each part on the bed and orient it for your printer. Supports may be needed, especially beneath the bow. All dimensions are millimetres. If the sack has been scaled, scale BOTH rope pieces by exactly the same percentage.
+
+Install approximately 56 mm above the sack's base, below the folded rim. The bow faces the low-Y/front side shown in the preview. The sculpted inner surfaces match the sack with approximately 0.2 mm radial adhesive clearance at the contact areas; the rope bridges some fabric recesses naturally. Two side seams have a 0.3 mm assembly gap.
+
+Dry-fit both halves before gluing. Remove support marks and lightly sand the contact surfaces if needed. Apply small amounts of adhesive suitable for your print material to the inner contact areas, seat the front half and rear half, and hold them in place while the glue cures. Glue the side seams as well. Physical fit depends on your printer and material; no physical test print has been performed.
+
+rope_assembly_reference.stl is for visual alignment only. Use the two separate parts for installation; the assembled ring cannot slide over the wide sack rim.
