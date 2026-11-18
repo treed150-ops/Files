@@ -1,0 +1,50 @@
+[
+  {
+    "file": "rear_rope_A_left_3.7_right_5.8mm.stl",
+    "left_gap_mm": 3.7,
+    "right_gap_mm": 5.8,
+    "nominal_end_extensions_mm": [
+      3.5,
+      5.6
+    ],
+    "watertight_after_STL_reload": true,
+    "connected_components": 1,
+    "volume_mm3": 2335.3786183001625,
+    "bounds_mm": [
+      [
+        4.876911640167236,
+        42.51386642456055,
+        53.09756851196289
+      ],
+      [
+        88.08428955078125,
+        88.12806701660156,
+        58.90249252319336
+      ]
+    ]
+  },
+  {
+    "file": "rear_rope_B_left_5.8_right_3.7mm.stl",
+    "left_gap_mm": 5.8,
+    "right_gap_mm": 3.7,
+    "nominal_end_extensions_mm": [
+      5.6,
+      3.5
+    ],
+    "watertight_after_STL_reload": true,
+    "connected_components": 1,
+    "volume_mm3": 2340.216155818353,
+    "bounds_mm": [
+      [
+        4.876911640167236,
+        42.510414123535156,
+        53.09756851196289
+      ],
+      [
+        88.08428955078125,
+        88.12806701660156,
+        58.90249252319336
+      ]
+    ]
+  }
+]
