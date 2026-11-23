@@ -1,0 +1,13 @@
+SANTA SACK STAND — 60 MM TALL
+
+Print Santa_Sack_Stand_60mm.stl upright with the wide flat foot on the bed, at 100% scale. STL dimensions are millimetres.
+
+Overall dimensions: 116 mm diameter x 60 mm tall.
+Top recess: 104 mm diameter at the floor, 2 mm deep, with a bevel at the opening.
+The sack rests 58 mm above the table; the stand's rim is 60 mm above the table.
+
+Designed for the original-size present sack (approximately 95.6 x 96.0 x 110 mm). The rounded sack base has more than 1.8 mm radial clearance within the recess in the digital model. If your sack was scaled, scale this stand by the same percentage; this also scales the stand height.
+
+Suggested starting settings: PLA, 0.2 mm layers, 3-4 walls, 5 top/bottom layers, 15-20% infill. The shoulder rises at 45 degrees and the stand is intended to print upright without supports. Check your slicer preview.
+
+Dry-fit the sack before gluing. Glue is optional; apply adhesive suitable for your print material to the flat seat if permanent attachment is wanted. No physical test print has been performed.

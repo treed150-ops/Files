@@ -1,0 +1,19 @@
+{
+  "stand_dimensions_mm": [
+    116.0,
+    116.0,
+    60.0
+  ],
+  "total_height_mm": 60,
+  "sack_support_height_mm": 58,
+  "recess_depth_mm": 2,
+  "recess_floor_diameter_mm": 104,
+  "base_diameter_mm": 116,
+  "top_outer_diameter_mm": 112,
+  "minimum_radial_clearance_below_rim_mm": 1.9733214730567852,
+  "watertight_STL": true,
+  "winding_consistent": true,
+  "connected_components": 1,
+  "volume_mm3": 450363.8964732946,
+  "physical_fit_tested": false
+}
