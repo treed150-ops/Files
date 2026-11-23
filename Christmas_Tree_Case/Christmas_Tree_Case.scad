@@ -1,12 +1,13 @@
 // Dimensions are in millimeters. Set part to export an individual component.
 part = "preview"; // [preview,tray,lid,lid_white,garlands,sprinkles]
-tray_height = 21;
+usable_clearance = 30;
 floor = 2.4;
 wall = 2.2;
 clearance = 0.25;
 lip_depth = 3.4;
 lid_thickness = 2.8;
 color_depth = 0.6;
+tray_height = floor + usable_clearance + lip_depth;
 $fn = 40;
 
 tree_half = [[0,134],[3.5,134],[6.5,132],[9,128],[24,104],

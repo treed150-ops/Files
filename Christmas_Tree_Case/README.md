@@ -11,7 +11,7 @@ A printable case for a wrapped tree-shaped snack, with a removable snap-fit lid,
 - [Single-color lid STL](Lid_Single_Color.stl)
 - [Editable OpenSCAD model](Christmas_Tree_Case.scad)
 
-The tray is 100 × 142.5 mm including the key-ring loop. The closed case is 23.8 mm thick. The shaped cavity is 18.6 mm deep below the top of the tray, and the lid rim extends 3.4 mm into the opening. These dimensions were chosen from the proportions in the photo.
+The tray is 100 × 142.5 mm including the key-ring loop and 35.8 mm tall. With the lid fully seated, there is 30.0 mm of usable clearance from the interior floor to the lowest point of the lid rim (35.8 mm tray height minus the 2.4 mm floor and 3.4 mm lid intrusion). The closed case is 38.6 mm thick.
 
 ## Printing and assembly
 
