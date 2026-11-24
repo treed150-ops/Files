@@ -39,3 +39,7 @@ A centered insertion sweep identified the trunk snap bumps as the only interfere
 | Usable interior clearance when fully seated | 30.00 mm | 30.00 mm |
 
 The revised lid uses two relieved snap tabs with gradual insertion ramps and short locking faces that engage near the mouth of the existing recesses. The flange retains its seating surface. In the digital assembly it seats at a 0.00 mm seam with zero interference, and the tray, exterior envelope, and color parts retain their original geometry. Bambu Studio sliced the revised 3MF with all three colors. The measured lift and interference describe the centered digital model. Physical seam and retention force depend on the printed parts and have yet to be tested.
+
+### Additional insertion-rim clearance
+
+The current three-color file adds 0.15 mm of lateral clearance per side to the insertion rim. At the trunk, the plain rim width is now 32.30 mm against the 33.60 mm tray throat, for 0.65 mm of clearance per side. The snap crests remain 33.90 mm apart and in their previous vertical position. The flange has the same seating surface, with a 0.00 mm nominal seam and 30.00 mm of usable interior clearance in the digital assembly. The file sliced successfully with three colors in Bambu Studio. Printed seating and retention remain to be checked.
