@@ -43,3 +43,14 @@ The revised lid uses two relieved snap tabs with gradual insertion ramps and sho
 ### Additional insertion-rim clearance
 
 The current three-color file adds 0.15 mm of lateral clearance per side to the insertion rim. At the trunk, the plain rim width is now 32.30 mm against the 33.60 mm tray throat, for 0.65 mm of clearance per side. The snap crests remain 33.90 mm apart and in their previous vertical position. The flange has the same seating surface, with a 0.00 mm nominal seam and 30.00 mm of usable interior clearance in the digital assembly. The file sliced successfully with three colors in Bambu Studio. Printed seating and retention remain to be checked.
+
+## Four-lock tray and lid
+
+The current printable tray and three-color lid add a matching pair of snap locks on the upper diagonal walls. The upper features were copied from the working trunk locks and rotated to follow the walls, with the upper recess centers at Y = 115 mm in the model. The original two trunk locks, 0.65 mm nominal rim clearance measured normal to the straight mating walls, and 30.00 mm usable cake clearance remain in the full-size pair.
+
+All four tabs occupy their matching recesses with zero modeled interference or added seam at full seating. The upper locking faces begin resisting a centered lift at approximately 0.054 mm and the trunk faces at approximately 0.056 mm. Bambu Studio sliced the full lid with all three colors. Physical engagement and release force can be checked with the two fit-test files below.
+
+- [Single-color four-lock test lid STL](Lid_Four_Lock_Test_Single_Color.stl)
+- [8 mm-tall four-lock fit-test tray STL](Tray_Four_Lock_Fit_Test_8mm.stl)
+
+The test lid keeps the full lid geometry at the rim and snaps. The test tray preserves the full footprint and all four upper-edge mating features at 38% of the full tray's mesh volume. The original single-color lid and OpenSCAD source above are earlier versions. Use the four-lock test lid with the current tray.
